@@ -1,2 +1,2 @@
 # ajax-typeahead
-Typeahead of cities, using AJAX
+AJAX typeahead of Greek cities. Displays city name and population as the user types.
